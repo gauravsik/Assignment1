@@ -1,5 +1,8 @@
 package com.gildedrose;
 
+/**
+ * Created by gauravsi on 7/14/2016.
+ */
 class GildedRose {
     Item[] items;
 
